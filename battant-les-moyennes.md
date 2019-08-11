@@ -21,7 +21,7 @@ sur votre ordinateur de bureau.
 
 Une autre chose inhabituel par rapport à ce logiciel était le fait qu'il a
 été écrit en un langage de programmation qui s'appelle Lisp. En fait, il
-était un des premiers grand applications à être écrite en Lisp, qui
+était un des premières grandes applications à être écrite en Lisp, qui
 jusque-là a été utilisé principalement par les universités et les
 laboratoires de recherche.
 
@@ -29,12 +29,12 @@ laboratoires de recherche.
 
 Eric Raymond a rédigé un essai intitulé “Comment devenir un Hacker” et dans
 cela, entre autres, il dit aux hackers potentiels quels langages ils doivent
-apprendre. Il suggère de commencer par Python et Java, car ils sont facile à
-apprendre. Le hacker sérieux voudra apprendre aussi C, pour hacker Unix, et
-Perl pour l'administration du système et des scripts cgi. En fin, le hacker
-véritablement sérieux doit considérer d'apprendre Lisp:
+apprendre. Il suggère de commencer par Python et Java, car ils sont faciles
+à apprendre. Le hacker sérieux voudra apprendre aussi C, pour hacker Unix,
+et Perl pour l'administration du système et des scripts cgi. En fin, le
+hacker véritablement sérieux doit considérer d'apprendre Lisp:
 
-> Lisp vaut la peine d'être appris pour l'expérience l'illumination profonde
-> qu'on aura quand on l'a finalement appris; cette expérience vous fera un
-> meilleur programmeur pour le reste de vos jours, même si vous n'utiliserez
-> jamais Lisp beaucoup.
+> Lisp vaut la peine d'être appris pour l'expérience de l'illumination
+> profonde qu'on aura quand on l'a finalement appris; cette expérience vous
+> fera un meilleur programmeur pour le reste de vos jours, même si vous
+> n'utiliserez jamais Lisp beaucoup.
