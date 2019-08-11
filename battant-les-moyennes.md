@@ -1,5 +1,7 @@
 # Battant les moyennes
 
+L'original: <http://paulgraham.com/avg.html>
+
 Avril 2001, révisé Avril 2003
 
 (Cet article est dérivé d'un discours donné au 2001 Franz Developer
