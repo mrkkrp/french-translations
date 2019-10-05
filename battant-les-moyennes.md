@@ -72,3 +72,16 @@ démarrez une startup, vous le ressentez très fort. Les startups ont tendance
 à être une proposition tout ou rien. Soit vous devenez riche, soit vous
 n'obtenez rien. Dans un startup, si vous misez sur la mauvaise technologie,
 vos concurrents vous écraseront.
+
+Robert et moi connaissions bien Lisp, et nous ne pouvions voir aucune raison
+de ne pas faire confiance à notre instinct et de n'aller pas avec Lisp. On
+savait que tous les autres écrivaient leurs logiciels en C++ et Perl. Mais
+on savait aussi que ça ne signifiait rien. Si vous choisissez la technologie
+de cette façon, vous utiliseriez Windows. Quand on choisit la technologie,
+il faut ignorer ce que les autres font et considérer seulement ce qui
+fonctionnera le mieux.
+
+C'est particulièrement vrai dans les startups. Dans une grande entreprise on
+peut faire ce que les autres grandes entreprises font. Mais un startup ne
+peut pas faire ce que les autres startups font. Je ne crois pas que beaucoup
+de gens s'en rendent compte, même dans les startups.
