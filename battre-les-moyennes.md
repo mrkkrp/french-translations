@@ -85,3 +85,54 @@ C'est particulièrement vrai dans les startups. Dans une grande entreprise on
 peut faire ce que les autres grandes entreprises font. Mais un startup ne
 peut pas faire ce que les autres startups font. Je ne crois pas que beaucoup
 de gens s'en rendent compte, même dans les startups.
+
+Le grande entreprise moyenne grandit d'environ 10% par an. Donc si vous
+dirigez une grande entreprise et faites tout comme une grande entreprise
+moyenne le fait, vous pouvez vous attendre à faire aussi bien que le grande
+entreprise moyenne—c'est-à-dire à grandir par d'environ 10% par an.
+
+Bien sûr, la même chose arrivera si vous dirigez un startup. Si vous faites
+tout comme un startup moyen, vous pouvez anticiper performance moyenne. Le
+problème est, la performance moyenne signifie que vous serez mets en
+faillite. Le taux de survie pour startups est beaucoup moins de cinquante
+pourcent. Ça veut dire que si vous dirigez un startup, vous ferriez mieux de
+faire quelque chose de bizarre. Sinon, vous avez des problèmes.
+
+En 1995, nous savions quelque chose que je ne crois pas que nos concurrents
+comprenaient, et peu comprennent même maintenant: quand vous écrivez
+logiciel qui ne va fonctionner que sur vos propres serveurs, vous pouvez
+utiliser un langage de programmation de votre choix. Quand vous écrivez
+logiciel de bureau, il y a un fort biais pour l'écrire en le même langage
+que le système d'exploitation. Il y a dix ans, écrire des applications
+signifiait écrire des applications en C. Mais avec un logiciel basé sur le
+Web, surtout si vous avez code source du langage et du système
+d'exploitation, vous pouvez utiliser un langage de votre choix.
+
+Cette nouvelle liberté est cependant une arme à double tranchant. Maintenant
+que vous pouvez utiliser n'importe quel langage, vous devez déterminer
+lequel utiliser. Les entreprises qui essayent de prétendre que rien n'a
+changé risquent de trouver que leurs concurrents ne le pensent pas.
+
+Si vous pouvez utiliser n'importe quel langage, quel langage vous utilisez?
+Nous avions choisi Lisp. D'un côté, c'était évident que développement rapide
+serait important sur ce marché. Nous tous partions de zéro, ainsi, une
+entreprise qui pourrait obtenir de nouvelles fonctionnalités avant ses
+concurrents aurait un gros avantage. On sait que Lisp était un langage
+vraiment bien pour écrire logiciel vite, et les applications basés sur des
+serveurs amplifient l'effet de développement rapide car vous pouvez publier
+un logiciel la minute il est fait.
+
+Si les autres entreprises n'utilisaient pas Lisp, tant mieux. Cela pourrait
+nous donner un avantage technologique, et on avait besoin de toute aide
+qu'on pouvait obtenir. Quand on a lancé Viaweb, on n'a aucune expérience en
+affaires. On ne sait rien à propos de marketing, ou embouche, ou collecte de
+fonds, ou obtention de clients. Aucun de nous n'avait même jamais eu ce que
+vous appelleriez un travail vrai. La seule chose dans laquelle nous étions
+bons était l'écriture de logiciels. On espérait que ça nous sauverait. Tout
+avantage que nous pourrions obtenir dans le département de logiciel, nous
+prendrions.
+
+Donc, vous pourriez dire que Lisp était une expérience. Note hypothèse était
+que si on écrivait notre logiciel en Lisp, on pourrait obtenir des
+fonctionnalités plus rapidement que nos concurrents et faire des choses
+qu'ils ne pouvaient pas faire.
