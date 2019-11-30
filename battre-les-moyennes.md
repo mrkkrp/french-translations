@@ -135,4 +135,69 @@ prendrions.
 Donc, vous pourriez dire que Lisp était une expérience. Note hypothèse était
 que si on écrivait notre logiciel en Lisp, on pourrait obtenir des
 fonctionnalités plus rapidement que nos concurrents et faire des choses
-qu'ils ne pouvaient pas faire.
+qu'ils ne pouvaient pas faire. Et car Lisp est si haut niveau, nous
+n'aurions pas besoin d'une grande équipe de développement, donc nos coûts
+seraient plus bas. Si c'était le cas, on pourrait offrir un meilleure
+produit pour moins d'argent, et toujours faire un profit. Nous finirions par
+avoir tous les utilisateurs, nos concurrents n'en auraient aucun, et
+finiraient par faire faillite. C'est ce qu'on espérions.
+
+Quels ont été les résultats de cette expérience? Assez étonnamment, cela a
+fonctionné. Nous avons finalement eu beaucoup de concurrents, de l'ordre de
+vingt à trente d'eux, mais aucun de leurs logiciels ne pourrait rivaliser
+avec le nôtre. Nous avions un WYSIWYG constructeur de magasin en ligne qui
+fonctionnait sur le serveur et pourtant ressentait comme un application de
+bureau. Nos concurrents avaient des scripts CGI. Nous étions toujours loin
+devant eux en termes de fonctionnalités. Des fois, en désespoir de cause,
+les concurrents tentaient d'introduire des fonctionnalités qu'on n'avait
+pas. Mais avec Lisp notre cycle de développement était si rapide qu'on
+pouvait des fois dupliquer une nouvelle fonctionnalité dans un délai d'un
+jour ou deux d'un communiqué de presse. Au moment où les journalistes
+couvrant le communiqué de presse nous ont appelés, nous aurions aussi la
+nouvelle fonctionnalité.
+
+Cela a dû sembler à nos concurrents que nous avions une sorte d'arme
+secrète—que nous décodions leur trafic Enigma ou quelque chose du genre. En
+effet, on avait une arme secrète, mais elle était plus simple qu'ils
+pensaient. Personne ne nous faisait part de leurs nouvelles. Nous pouvions
+simplement développer des logiciels plus rapidement que quiconque ne le
+pensait.
+
+Lorsque j'avais 9 ans, je suis arrivé à obtenir une copie de *The Day of the
+Jackal* de Frederick Forsyth. Le personnage principale est un assassin qui
+est engagé pour tuer le président de la France. L'assassin doit passer
+devant la police pour se lever à un appartement qui surplombe la route du
+président. Il passe à côté d'eux, déguisé en vieillard avec des béquilles,
+et ils ne le soupçonnent jamais.
+
+Notre arme secrète était similaire. Nous écrivions notre logiciel en un
+langage AI étrange, avec une syntaxe bizarre pleine de parenthèses. Pendant
+des années, cela m'énervait d'entendre que Lisp soit décrit comme ça. Mais
+maintenant, cela a fonctionné à notre avantage. En affaires, rien ne vaut
+plus qu'un avantage technique que vos concurrents ne comprennent pas. En
+affaires, comme en guerre, la surprise vaut autant que la force.
+
+Et donc, je suis un peu gêné de dire que je n'avait jamais rien dit
+publiquement à propos de Lisp pendent que nous travaillions sur Viaweb. On
+n'en parlait jamais à la presse, et si vous cherchiez Lisp sur notre site
+Web, vous ne trouveriez que les titres de deux livres dans ma bio. Ce
+n'était pas un accident. Un startup doit donner ses concurrents le moins
+d'informations possible. S'ils ne saivaient pas en quel langage notre
+logiciel était écrit ou ne s'en souciaient pas, je voulais le garder ainsi.
+
+Ce sont nos clients qui comprenaient le mieux notre technologie. Ils se
+fichaient du langage en lequel Viaweb était écrit, mais ils ont remarqué
+qu'il fonctionnait très bien. Ça leur a permis de créer de superbes magasins
+en ligne en quelques minutes. Et donc, de bouche à oreille surtout, nous
+avions eu de plus d'utilisateurs. À la fin de 1996, nous avions environ 70
+magasins en ligne. À la fin de 1997, nous avions 500. Six moins après, quand
+Yahoo nous a acheté, nous avions 1070 utilisateurs. Aujourd'hui, comme Yahoo
+Store, ce logiciel continue de dominer son marché. C'est l'une des pièces
+les plus rentables de Yahoo, et les magasins construits avec ça sont la base
+de Yahoo Shopping. J'ai quitter Yahoo en 1999, et donc je ne sait pas
+exactement combien utilisateurs ils ont au moment, mais la dernière fois que
+j'ai entendu parler, il y en avait environ 20 000.
+
+## Le paradoxe de Blub
+
+En quoi Lisp est-il si génial?
